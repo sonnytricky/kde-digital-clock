@@ -138,3 +138,18 @@ plasmoidviewer -p package/
 ```
 
 Mach es mit `chmod +x dev-install.sh` ausführbar. Danach kannst du mit `./dev-install.sh` deine Änderungen in einem Schritt aktualisieren und die Vorschau öffnen.
+
+## License
+
+Copyright (C) 2026 sonnytricky
+
+This project is free software: you can redistribute it and/or modify
+it under the terms of the **GNU General Public License, version 3,
+or (at your option) any later version**.
+
+See the [`LICENSE`](LICENSE) file for the complete license text.
+
+This project is provided without warranty, as permitted by the GNU
+General Public License.
+
+---
