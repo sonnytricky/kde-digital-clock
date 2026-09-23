@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.meineuhr",
+        "Name": "Meine Digitale Uhr",
+        "Description": "Ein einfaches Digitaluhr-Plasmoid",
+        "Icon": "preferences-system-time",
+        "Authors": [
+            {
+                "Name": "sonnytricky"
+            }
+        ],
+        "Category": "Date and Time",
+        "License": "GPL-3.0"
+    },
+    "KPackageStructure": "Plasma/Applet"
+}
